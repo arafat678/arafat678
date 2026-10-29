@@ -10,26 +10,26 @@
 
 <br/>
 
-> *"Bridging Biological Intelligence, Recurrent Neural Dynamics, and Low-Power Neuromorphic Edge Architectures."*
+> *NeuroAI • Reservoir Computing • Neuroevolution & Genetic Algorithms • Brain-Inspired AI for Healthcare • Neuromorphic Computing*
 
 </div>
 
 ---
 
-### 🏛️ Academic Profile & Affiliations
+###  Academic Profile & Affiliations
 
-* 🏫 **Assistant Professor** — Department of Computer Science & Engineering, **Swami Vivekananda University (SVU)**, Kolkata, India.
-* 🔬 **Remote Research Researcher** — **Indian Institute of Technology (IIT) Roorkee**, Neuromimetic Computing Lab (Focus: Neuromorphic architectures, nano-systems, and computational nanotechnology).
-* 🏛️ **Former R&D Engineer** — **National Council of Science Museums (CRTL Lab)**, Computer Sciences Division.
+*  **Assistant Professor** — Department of Computer Science & Engineering, **Swami Vivekananda University (SVU)**, Kolkata, India.
+* **Remote Research Researcher** — **Indian Institute of Technology (IIT) Roorkee**, Neuromimetic Computing Lab (Focus: Neuromorphic architectures, nano-systems, and computational nanotechnology).
+* **Former R&D Engineer** — **National Council of Science Museums (CRTL Lab)**, Computer Sciences Division.
 
 ---
 
-### 🎓 Education & Credentials
+###  Education & Credentials
 
-* 🎓 **M.Tech. in Artificial Intelligence** *(2024)*  
+*  **M.Tech. in Artificial Intelligence** *(2024)*  
   *Maulana Abul Kalam Azad University of Technology (MAKAUT)*, West Bengal, India.  
   *Specialization:* NeuroAI, Evolutionary Optimization, and Sequential Deep Learning.
-* 🎓 **B.Tech. in Electrical Engineering**  
+*  **B.Tech. in Electrical Engineering**  
   *Maulana Abul Kalam Azad University of Technology (MAKAUT)*, West Bengal, India.
 
 ---
@@ -58,26 +58,26 @@
 
 ---
 
-### 📚 Official Publications List (Indexed in ORCID)
+###  Official Publications List (Indexed in ORCID)
 
-1. 📄 **A Review of Neuroscience-Inspired Deep Learning and Genetic Algorithms** *(2026)*  
+1.  **A Review of Neuroscience-Inspired Deep Learning and Genetic Algorithms** *(2026)*  
    *BMC Artificial Intelligence* (BioMed Central / Springer Nature).
-2. 📄 **Neuro-Evolutionary Reservoir Computing (NERC) for Real-Time ECG Forecasting and Label-Free Anomaly Detection: An Open Benchmark** *(2026)*  
+2.  **Neuro-Evolutionary Reservoir Computing (NERC) for Real-Time ECG Forecasting and Label-Free Anomaly Detection: An Open Benchmark** *(2026)*  
    *Pre-submission / Benchmark Protocol* — Comprehensive 22-patient strict split on MIT-BIH with record-level bootstrap CIs, Lyapunov contractivity, and $0.066\text{ ms}$ per-beat latency.
-3. 📄 **Smart Contracts and Autonomous Decision Frameworks** *(2026)*  
+3. **Smart Contracts and Autonomous Decision Frameworks** *(2026)*  
    *Blockchain Foundations For Secure Intelligent Ecosystems*.
-4. 📄 **Advanced Apple Sorting and Quality Grading Application Using Graph Neural Networks, Vision Transformers, and Convolutional Neural Networks** *(2025)*  
+4. **Advanced Apple Sorting and Quality Grading Application Using Graph Neural Networks, Vision Transformers, and Convolutional Neural Networks** *(2025)*  
    *7th International Symposium on Advanced Electrical and Communication Technologies (IEEE ISAECT 2025)*.
-5. 📄 **A Novel Method for Breast Cancer Detection Using KNN** *(2025)*  
+5. **A Novel Method for Breast Cancer Detection Using KNN** *(2025)*  
    *YMER* (DOI: `10.37896/YMER24.01/57`).
-6. 📄 **Interactive Display System for Spatial Content Exploration in Museums** *(2024)*  
+6. **Interactive Display System for Spatial Content Exploration in Museums** *(2024)*  
    *First International Conference on Innovations in Communications, Electrical and Computer Engineering (IEEE ICICEC 2024)*.
-7. 📄 **Design and Analysis of P&O Algorithm Based MPPT Solar System in PSIM** *(2022)*  
+7. **Design and Analysis of P&O Algorithm Based MPPT Solar System in PSIM** *(2022)*  
    *YMER*.
 
 ---
 
-### 💻 Technical Expertise
+###  Technical Expertise
 
 | Category | Competencies & Toolchain |
 | :--- | :--- |
@@ -89,7 +89,7 @@
 
 ---
 
-### 📊 Live GitHub Statistics & Activity
+###  Live GitHub Statistics & Activity
 
 <div align="center">
 
@@ -104,7 +104,7 @@
 
 ---
 
-### 📫 Contact & Academic Verification
-* 🏢 **Institution:** Department of Computer Science and Engineering, Swami Vivekananda University, Barrackpore, Kolkata 700121, India.
-* 📧 **Institutional / Research Inquiries:** [arafatmondal7797@gmail.com](mailto:arafatmondal7797@gmail.com)
-* 🆔 **ORCID Record:** [0009-0006-2487-8565](https://orcid.org/0009-0006-2487-8565)
+###  Contact & Academic Verification
+*  **Institution:** Department of Computer Science and Engineering, Swami Vivekananda University, Barrackpore, Kolkata 700121, India.
+*  **Institutional / Research Inquiries:** [arafatmondal7797@gmail.com](mailto:arafatmondal7797@gmail.com)
+*  **ORCID Record:** [0009-0006-2487-8565](https://orcid.org/0009-0006-2487-8565)
