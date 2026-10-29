@@ -10,7 +10,7 @@
 
 <br/>
 
-> *"Bridging Biological Intelligence, Recurrent Neural Dynamics, and Low-Power Neuromorphic Edge Architectures."*
+> *"Advancing Neuro-AI, Recurrent Dynamical Systems, and Neuromorphic Computing for Adaptive, Ultra-Low-Power Biomedical Edge Telemetry."*
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ### 🏛️ Academic Profile & Affiliations
 
-* 🏫 **Assistant Professor** — Department of Computer Science & Engineering, **Swami Vivekananda University (SVU)**, Kolkata, India.
+* 🏫 **Assistant Professor** — Department of Computer Science & Engineering, **Swami Vivekananda University (SVU)**, Barrackpore, Kolkata, India.
 * 🔬 **Remote Research Researcher** — **Indian Institute of Technology (IIT) Roorkee**, Neuromimetic Computing Lab (Focus: Neuromorphic architectures, nano-systems, and computational nanotechnology).
 * 🏛️ **Former R&D Engineer** — **National Council of Science Museums (CRTL Lab)**, Computer Sciences Division.
 
@@ -34,32 +34,30 @@
 
 ---
 
-### 🔬 Research Specializations & Methodology
+### 🔬 Current Research Work
 
-```
-                   ┌────────────────────────────────────────┐
-                   │       Arafat Ali Mondal Research       │
-                   └───────────────────┬────────────────────┘
-                                       │
-         ┌─────────────────────────────┼─────────────────────────────┐
-         ▼                             ▼                             ▼
-┌──────────────────┐         ┌──────────────────┐          ┌──────────────────┐
-│     NeuroAI      │         │ Sequential & DL  │          │   Edge & BioAI   │
-├──────────────────┤         ├──────────────────┤          ├──────────────────┤
-│• Reservoir Comp. │         │• Graph Neural Net│          │• ECG Telemetry   │
-│• Echo State Net  │         │• Vision Transf.  │          │• Sub-0.14ms Edge │
-│• Genetic Search  │         │• Spatiotemporal  │          │• Micro-Watt HW   │
-└──────────────────┘         └──────────────────┘          └──────────────────┘
-```
+#### 1. 🫀 Neuro-Evolutionary Reservoir Computing (NERC) for Real-Time ECG Signal Prediction and Brain-Inspired Arrhythmia Detection *(Ongoing)*
+* **Objective:** Developing ultra-efficient, brain-inspired AI models for real-time ECG prediction and automated arrhythmia detection, suitable for low-power wearable health-monitoring hardware.
+* **Advisors:** **Dr. Ankush Kumar** *(IIT Roorkee)* and **Dr. Payal Bose** *(SVU, Barrackpore)*.
 
-* **Neuro-Evolutionary Reservoir Computing (NERC):** Eliminating ESN hyperparameter fragility via validation-guided genetic search; mathematical verification of the Echo State Property via Lyapunov exponents ($\lambda_{\text{max}} < -0.32$).
-* **Biomedical Signal Telemetry:** Real-time, unsupervised next-beat ECG forecasting, suppressing clinical alarm fatigue from $340+$ false alarms/hour down to $<4$ alarms/hour.
-* **Intelligent Agricultural & Spatial Systems:** GNN and Vision Transformer architectures for high-throughput fruit grading and interactive museum display systems.
+#### 2. 📊 Genetically Tuned Reservoir Computing for Next-Beat ECG Forecasting and Label-Free Anomaly Detection: A Negative-Findings Benchmark Against Simple Sequence Baselines
+* **Objective:** Methodological benchmark comparing GA-tuned reservoirs against multi-lag ridge and moving averages under strict patient-isolated splits (MIT-BIH).
+* **Advisors:** **Dr. Ankush Kumar** *(IIT Roorkee)* and **Dr. Payal Bose** *(SVU, Barrackpore)*.
+
+#### 3. 🧠 Genetic-Algorithm-Tuned Dendritic Reservoir Computing for Next-Beat ECG Prediction and Label-Free Beat Anomaly Detection
+* **Objective:** Systematic ablation evaluating bio-inspired dendritic state updates and multiplicative gating mechanisms in Echo State Networks.
+* **Advisors:** **Dr. Ankush Kumar** *(IIT Roorkee)* and **Dr. Payal Bose** *(SVU, Barrackpore)*.
 
 ---
 
-### 📚 Official Publications List
+### 📚 Publications & Book Chapters
 
+#### 📖 Book Chapters
+* 📑 **Smart Contracts and Autonomous Decision Frameworks** *(2026)*  
+  *Blockchain Foundations For Secure Intelligent Ecosystems* (Publication Date: 2026-10-04).  
+  *Contribution:* Methodology, Writing – original draft.
+
+#### 📄 Journal & Conference Papers
 1. 📄 **A Review of Neuroscience-Inspired Deep Learning and Genetic Algorithms** (2026)  
    **Mondal, A.A.**, Kumar, A. & Bhattacharyya, N.  
    *BMC Artificial Intelligence* (Springer Nature), 2, 5 (2026).  
@@ -72,7 +70,7 @@
 
 3. 📄 **A Low-Cost AI-Based Apple Quality Grading System Using Contour Analysis and Deep Learning for Real-Time Agricultural Applications** (2026)  
    **Mondal, A.A.**, Bose, P. & Mahata, R.  
-   *Proceedings of the 3rd International Conference on Computing and Machine Learning (CML 2026)*, Sikkim Manipal University, India, March 2026.
+   *Proceedings of the 3rd International Conference on Computing and Machine Learning (CML 2026)*, Sikkim Manipal University, India, March 2026 *(Presentation Completed)*.
 
 4. 📄 **A Novel Method for Breast Cancer Detection Using KNN** (2025)  
    **Mondal, A.A.**, Bhattacharyya, N. & Mondal, S.  
@@ -82,11 +80,11 @@
 5. 📄 **Interactive Display System for Spatial Content Exploration in Museums** (2024)  
    Ghosh, S., **Mondal, A.A.**, Kumar, A., Grove, K., Chatterjee, A. & Bagchi, M.  
    *2024 First International Conference on Intelligent Computing for Emerging and Converging Technologies (IEEE ICICEC)*, Davangere, India, pp. 1–6.  
-   🔗 [IEEE Link](https://icicec.com/)
+   🔗 [IEEE Conference Link](https://icicec.com/)
 
 6. 📄 **Personalized Content Delivery Systems: An AI-Based Age Estimation Approach** (2025)  
    **Mondal, A.A.**, Chatterjee, A., Ghosh, S. & Bagchi, M.  
-   *Proc. Int. Conf. on Recent Advances in Electrical and Computer Technologies*, CRC Press (Taylor & Francis Group), 2025.
+   *Proc. Int. Conf. on Recent Advances in Electrical and Computer Technologies*, CRC Press (Taylor & Francis Group), 2025 *(Presentation)*.
 
 7. 📄 **A Review Paper on Increasing Efficiency of Solar Cells Using Artificial Intelligence and Nanotechnology** (2023)  
    Ghosh, S., **Mondal, A.A.** & Guha, P.  
@@ -100,15 +98,24 @@
 
 ---
 
-### 💻 Technical Expertise
+### 💻 Technical Skills & Spoken Languages
 
-| Category | Competencies & Toolchain |
-| :--- | :--- |
-| **Architectures** | Reservoir Computing (ESN, LSM), Graph Neural Networks (GNNs), Vision Transformers (ViTs), CNNs, RNN/LSTM |
-| **Languages** | Python, C/C++, MATLAB, Bash, SQL, LaTeX |
-| **Libraries & Frameworks** | PyTorch, Scikit-Learn, NumPy, SciPy, WFDB (PhysioNet), Pandas, Matplotlib, OpenCV |
-| **Theoretical Analysis** | Lyapunov Exponents, Fading Memory Benchmarks, Genetic Algorithms (GA), Ridge Readout Optimization |
-| **Hardware & Deployment**| Embedded C, ARM Cortex-M optimization targets, Hard Real-Time Latency Profiling |
+* **Programming Languages:** Python, R, C/C++, MATLAB, Bash, SQL, LaTeX
+* **DL / ML Frameworks:** PyTorch, TensorFlow, Scikit-Learn
+* **Data & Signal Analysis:** NumPy, Pandas, Matplotlib, SciPy, Signal Analysis, WFDB (PhysioNet)
+* **Computer Vision & Image Processing:** OpenCV, Image Segmentation, Contour Analysis, Object Detection, ImageJ
+* **Spoken Languages:** Bengali (Native), English (Fluent)
+
+---
+
+### 🎙️ Seminars & Workshops Attended
+
+* 🧠 **Brain Signals for Biometrics and Brain-Computer Interface (BCI)** — Kolkata (Online).  
+  *Speaker:* **Dr. Rig Das**, Assistant Professor, University of Wisconsin–La Crosse (UWL), USA.
+* 🤖 **AI and Pattern Recognition** — Kolkata.  
+  *Speaker:* **Dr. Sankar Kumar Pal**, President, Indian Statistical Institute (ISI).
+* 🌐 **Convergence of IoT and AI for Emerging Applications** — Computer Society of India (CSI), Kolkata Chapter.  
+  *Speaker:* **Prof. Nabarun Bhattacharyya**, Former Senior Director, C-DAC, Kolkata.
 
 ---
 
