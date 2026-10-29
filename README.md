@@ -4,7 +4,7 @@
 ### Assistant Professor of Computer Science & Engineering | NeuroAI & Neuromorphic Computing Researcher
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--2487--8565-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-2487-8565)
-[![Affiliation](https://img.shields.io/badge/Affiliation-Swami%20Vivekananda%20University-FF6B6B?style=for-the-badge&logo=google-scholar&logoColor=white)](https://svu.ac.in)
+[![Affiliation](https://www.swamivivekanandauniversity.ac.in/)
 [![Collaboration](https://img.shields.io/badge/Research%20Collaboration-IIT%20Roorkee-0056B3?style=for-the-badge&logo=target&logoColor=white)](https://iitr.ac.in)
 [![Email](https://img.shields.io/badge/Email-arafatmondal7797%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafatmondal7797@gmail.com)
 
