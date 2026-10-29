@@ -34,6 +34,30 @@
 
 ---
 
+### 🔬 Research Specializations & Methodology
+
+`
+                   ┌────────────────────────────────────────┐
+                   │       Arafat Ali Mondal Research       │
+                   └───────────────────┬────────────────────┘
+                                       │
+         ┌─────────────────────────────┼─────────────────────────────┐
+         ▼                             ▼                             ▼
+┌──────────────────┐         ┌──────────────────┐          ┌──────────────────┐
+│     NeuroAI      │         │ Sequential & DL  │          │   Edge & BioAI   │
+├──────────────────┤         ├──────────────────┤          ├──────────────────┤
+│• Reservoir Comp. │         │• Graph Neural Net│          │• ECG Telemetry   │
+│• Echo State Net  │         │• Vision Transf.  │          │• Sub-0.14ms Edge │
+│• Genetic Search  │         │• Spatiotemporal  │          │• Micro-Watt HW   │
+└──────────────────┘         └──────────────────┘          └──────────────────┘
+`
+
+* 🧠 **Neuro-Evolutionary Reservoir Computing (NERC):** Eliminating ESN hyperparameter fragility via validation-guided genetic search; mathematical verification of the Echo State Property via Lyapunov exponents ($\lambda_{\text{max}} < -0.32$).
+* 🫀 **Biomedical Signal Telemetry:** Real-time, unsupervised next-beat ECG forecasting, suppressing clinical alarm fatigue from +$ false alarms/hour down to $<4$ alarms/hour.
+* 🍎 **Intelligent Agricultural & Spatial Systems:** GNN and Vision Transformer architectures for high-throughput fruit grading and interactive museum display systems.
+
+---
+
 ### 🔬 Current Research Work
 
 #### 1. 🫀 Neuro-Evolutionary Reservoir Computing (NERC) for Real-Time ECG Signal Prediction and Brain-Inspired Arrhythmia Detection *(Ongoing)*
