@@ -34,7 +34,7 @@
 
 ---
 
-### 🔬 Research Specializations & Methodology
+###  Research Specializations & Methodology
 
 ```
                    ┌────────────────────────────────────────┐
