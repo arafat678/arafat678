@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Arafat Ali Mondal
+# 👨‍🏫 Arafat Ali Mondal
 ### Assistant Professor of Computer Science & Engineering | NeuroAI & Neuromorphic Computing Researcher
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--2487--8565-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-2487-8565)
@@ -10,31 +10,31 @@
 
 <br/>
 
-> *NeuroAI • Reservoir Computing • Neuroevolution & Genetic Algorithms • Brain-Inspired AI for Healthcare • Neuromorphic Computing*
+> *"Bridging Biological Intelligence, Recurrent Neural Dynamics, and Low-Power Neuromorphic Edge Architectures."*
 
 </div>
 
 ---
 
-###  Academic Profile & Affiliations
+### 🏛️ Academic Profile & Affiliations
 
-* **Assistant Professor** — Department of Computer Science & Engineering, **Swami Vivekananda University (SVU)**, Kolkata, India.
-* **Remote Research Researcher** — **Indian Institute of Technology (IIT) Roorkee**, Neuromimetic Computing Lab (Focus: Neuromorphic architectures, nano-systems, and computational nanotechnology).
-*  **Former R&D Engineer** — **National Council of Science Museums (CRTL Lab)**, Computer Sciences Division.
+* 🏫 **Assistant Professor** — Department of Computer Science & Engineering, **Swami Vivekananda University (SVU)**, Kolkata, India.
+* 🔬 **Remote Research Researcher** — **Indian Institute of Technology (IIT) Roorkee**, Neuromimetic Computing Lab (Focus: Neuromorphic architectures, nano-systems, and computational nanotechnology).
+* 🏛️ **Former R&D Engineer** — **National Council of Science Museums (CRTL Lab)**, Computer Sciences Division.
 
 ---
 
-###  Education & Credentials
+### 🎓 Education & Credentials
 
-*  **M.Tech. in Artificial Intelligence** *(2024)*  
+* 🎓 **M.Tech. in Artificial Intelligence** *(2024)*  
   *Maulana Abul Kalam Azad University of Technology (MAKAUT)*, West Bengal, India.  
   *Specialization:* NeuroAI, Evolutionary Optimization, and Sequential Deep Learning.
-*  **B.Tech. in Electrical Engineering**  
+* 🎓 **B.Tech. in Electrical Engineering**  
   *Maulana Abul Kalam Azad University of Technology (MAKAUT)*, West Bengal, India.
 
 ---
 
-### Research Specializations & Methodology
+### 🔬 Research Specializations & Methodology
 
 ```
                    ┌────────────────────────────────────────┐
@@ -58,37 +58,61 @@
 
 ---
 
-###  Official Publications List (Indexed in ORCID)
+### 📚 Official Publications List
 
-1.  **A Review of Neuroscience-Inspired Deep Learning and Genetic Algorithms** *(2026)*  
-   *BMC Artificial Intelligence* (BioMed Central / Springer Nature).
-2.  **Neuro-Evolutionary Reservoir Computing (NERC) for Real-Time ECG Forecasting and Label-Free Anomaly Detection: An Open Benchmark** *(2026)*  
-   *Pre-submission / Benchmark Protocol* — Comprehensive 22-patient strict split on MIT-BIH with record-level bootstrap CIs, Lyapunov contractivity, and $0.066\text{ ms}$ per-beat latency.
-3.  **Smart Contracts and Autonomous Decision Frameworks** *(2026)*  
-   *Blockchain Foundations For Secure Intelligent Ecosystems*.
-4.  **Advanced Apple Sorting and Quality Grading Application Using Graph Neural Networks, Vision Transformers, and Convolutional Neural Networks** *(2025)*  
-   *7th International Symposium on Advanced Electrical and Communication Technologies (IEEE ISAECT 2025)*.
-5. **A Novel Method for Breast Cancer Detection Using KNN** *(2025)*  
-   *YMER* (DOI: `10.37896/YMER24.01/57`).
-6. **Interactive Display System for Spatial Content Exploration in Museums** *(2024)*  
-   *First International Conference on Innovations in Communications, Electrical and Computer Engineering (IEEE ICICEC 2024)*.
-7. **Design and Analysis of P&O Algorithm Based MPPT Solar System in PSIM** *(2022)*  
-   *YMER*.
+1. 📄 **A Review of Neuroscience-Inspired Deep Learning and Genetic Algorithms** (2026)  
+   **Mondal, A.A.**, Kumar, A. & Bhattacharyya, N.  
+   *BMC Artificial Intelligence* (Springer Nature), 2, 5 (2026).  
+   🔗 [DOI: 10.1186/s44398-025-00019-0](https://doi.org/10.1186/s44398-025-00019-0)
+
+2. 📄 **Advanced Apple Sorting and Quality Grading Application Using Graph Neural Networks, Vision Transformers, and Convolutional Neural Networks** (2025)  
+   **Mondal, A.A.**, Bhattacharyya, N. & Ghosh, S.  
+   *2025 7th International Symposium on Advanced Electrical and Communication Technologies (IEEE ISAECT)*, Mohali, Punjab, India, pp. 1–8.  
+   🔗 [IEEE Xplore DOI: 10.1109/ISAECT68904.2025.11318674](https://doi.org/10.1109/ISAECT68904.2025.11318674)
+
+3. 📄 **A Low-Cost AI-Based Apple Quality Grading System Using Contour Analysis and Deep Learning for Real-Time Agricultural Applications** (2026)  
+   **Mondal, A.A.**, Bose, P. & Mahata, R.  
+   *Proceedings of the 3rd International Conference on Computing and Machine Learning (CML 2026)*, Sikkim Manipal University, India, March 2026.
+
+4. 📄 **A Novel Method for Breast Cancer Detection Using KNN** (2025)  
+   **Mondal, A.A.**, Bhattacharyya, N. & Mondal, S.  
+   *YMER*, vol. 24, no. 1, pp. 807–813, Jan. 2025.  
+   🔗 [PDF Link](https://ymerdigital.com/uploads/YMER240189.pdf)
+
+5. 📄 **Interactive Display System for Spatial Content Exploration in Museums** (2024)  
+   Ghosh, S., **Mondal, A.A.**, Kumar, A., Grove, K., Chatterjee, A. & Bagchi, M.  
+   *2024 First International Conference on Intelligent Computing for Emerging and Converging Technologies (IEEE ICICEC)*, Davangere, India, pp. 1–6.  
+   🔗 [IEEE Link](https://icicec.com/)
+
+6. 📄 **Personalized Content Delivery Systems: An AI-Based Age Estimation Approach** (2025)  
+   **Mondal, A.A.**, Chatterjee, A., Ghosh, S. & Bagchi, M.  
+   *Proc. Int. Conf. on Recent Advances in Electrical and Computer Technologies*, CRC Press (Taylor & Francis Group), 2025.
+
+7. 📄 **A Review Paper on Increasing Efficiency of Solar Cells Using Artificial Intelligence and Nanotechnology** (2023)  
+   Ghosh, S., **Mondal, A.A.** & Guha, P.  
+   *International Journal of Research and Analytical Reviews (IJRAR)*, 10(1), pp. 433–435.  
+   🔗 [View Full Paper](https://ijrar.org/viewfull.php?&p_id=IJRAR23A2791)
+
+8. 📄 **Design and Analysis of P&O Algorithm-Based MPPT Solar System in PSIM** (2022)  
+   Roy, S.K., Ghosh, S., Chattropadyaya, A., Banerjee, P., Baidya, T., Mondal, T., **Mondal, A.A.** & Bhattacharya, S.  
+   *YMER*, 21(6).  
+   🔗 [PDF Link](https://ymerdigital.com/uploads/YMER2106H9.pdf)
 
 ---
 
-### Technical Expertise
+### 💻 Technical Expertise
 
 | Category | Competencies & Toolchain |
 | :--- | :--- |
 | **Architectures** | Reservoir Computing (ESN, LSM), Graph Neural Networks (GNNs), Vision Transformers (ViTs), CNNs, RNN/LSTM |
-| **Languages** | Python |
+| **Languages** | Python, C/C++, MATLAB, Bash, SQL, LaTeX |
 | **Libraries & Frameworks** | PyTorch, Scikit-Learn, NumPy, SciPy, WFDB (PhysioNet), Pandas, Matplotlib, OpenCV |
 | **Theoretical Analysis** | Lyapunov Exponents, Fading Memory Benchmarks, Genetic Algorithms (GA), Ridge Readout Optimization |
+| **Hardware & Deployment**| Embedded C, ARM Cortex-M optimization targets, Hard Real-Time Latency Profiling |
 
 ---
 
-###  Live GitHub Statistics & Activity
+### 📊 Live GitHub Statistics & Activity
 
 <div align="center">
 
@@ -103,6 +127,7 @@
 
 ---
 
-###  Contact & Academic Verification
-* **Institution:** Department of Computer Science and Engineering, Swami Vivekananda University, Barrackpore, Kolkata 700121, India.
-* **ORCID Record:** [0009-0006-2487-8565](https://orcid.org/0009-0006-2487-8565)
+### 📫 Contact & Academic Verification
+* 🏢 **Institution:** Department of Computer Science and Engineering, Swami Vivekananda University, Barrackpore, Kolkata 700121, India.
+* 📧 **Institutional / Research Inquiries:** [arafatmondal7797@gmail.com](mailto:arafatmondal7797@gmail.com)
+* 🆔 **ORCID Record:** [0009-0006-2487-8565](https://orcid.org/0009-0006-2487-8565)
