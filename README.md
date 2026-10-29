@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mr. Arafat Ali Mondal
-### Assistant Professor of Computer Science & Engineering | NeuroAI & Neuromorphic Computing Researcher
+### Assistant Professor of Computer Science & Engineering | Research Interests NeuroAI & Neuromorphic Computing 
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--2487--8565-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-2487-8565)
 [![University](https://img.shields.io/badge/Affiliation-Swami%20Vivekananda%20University-FF6B6B?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.swamivivekanandauniversity.ac.in/)
