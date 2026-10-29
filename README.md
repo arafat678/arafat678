@@ -106,5 +106,4 @@
 
 ###  Contact & Academic Verification
 *  **Institution:** Department of Computer Science and Engineering, Swami Vivekananda University, Barrackpore, Kolkata 700121, India.
-*  **Institutional / Research Inquiries:** [arafatmondal7797@gmail.com](mailto:arafatmondal7797@gmail.com)
 *  **ORCID Record:** [0009-0006-2487-8565](https://orcid.org/0009-0006-2487-8565)
