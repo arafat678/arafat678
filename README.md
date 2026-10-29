@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍🏫 Arafat Ali Mondal
+#  Arafat Ali Mondal
 ### Assistant Professor of Computer Science & Engineering | NeuroAI & Neuromorphic Computing Researcher
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--2487--8565-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-2487-8565)
