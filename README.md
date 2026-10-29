@@ -33,7 +33,6 @@
   *Maulana Abul Kalam Azad University of Technology (MAKAUT)*, West Bengal, India.
 ### Research Specializations & Methodology
 
-`
                    ┌────────────────────────────────────────┐
                    │       Arafat Ali Mondal Research       │
                    └───────────────────┬────────────────────┘
