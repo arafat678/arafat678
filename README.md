@@ -7,7 +7,7 @@
 [![University](https://img.shields.io/badge/Affiliation-Swami%20Vivekananda%20University-FF6B6B?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.swamivivekanandauniversity.ac.in/)
 [![Collaboration](https://img.shields.io/badge/Research%20Collaboration-IIT%20Roorkee-0056B3?style=for-the-badge&logo=target&logoColor=white)](https://iitr.ac.in)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Arafat-Mondal)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arafat-ali-mondal-970259264/)
 <br/>
 
 > *NeuroAI • Reservoir Computing • Neuroevolution & Genetic Algorithms • Brain-Inspired AI for Healthcare • Neuromorphic Computing.*
