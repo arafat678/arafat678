@@ -141,14 +141,15 @@ graph TD
 
 ---
 
-###  Technical Expertise
+###  Technical Expertise & Core Skills
 
 | Category | Skills, Frameworks & Tooling |
 | :--- | :--- |
-| **Programming Languages** | Python, R, C/C++, MATLAB, Bash, SQL, LaTeX |
-| **Deep Learning & ML** | PyTorch, TensorFlow, Scikit-Learn, Keras |
-| **Data & Signal Analysis** | NumPy, Pandas, Matplotlib, SciPy, Signal Processing, WFDB (PhysioNet) |
-| **Computer Vision** | OpenCV, Contour Analysis, Image Segmentation, Object Detection, ImageJ |
+| **NeuroAI & Reservoir Computing** | Reservoir Computing, Echo State Networks (ESNs), Genetic Algorithms (GA), Neuromorphic Computing, Dynamical Systems & Stability Analysis |
+| **Deep Learning & Neural Architectures** | Graph Neural Networks (GNNs), Vision Transformers (ViTs), Convolutional Neural Networks (CNNs), PyTorch, TensorFlow, Scikit-Learn, Keras |
+| **Biomedical & Signal Processing** | Real-Time ECG Telemetry, Biomedical Signal Processing, Unsupervised Anomaly Detection, WFDB (PhysioNet), SciPy, NumPy, Pandas |
+| **Computer Vision & Image Analysis** | OpenCV, Contour Analysis, Image Segmentation, Object Detection, Agricultural Automation, ImageJ |
+| **Programming & Scientific Stack** | Python, R, C/C++, MATLAB, Bash, SQL, LaTeX, High-Performance Computing |
 
 ---
 
