@@ -8,6 +8,7 @@
 [![Collaboration](https://img.shields.io/badge/Research%20Collaboration-IIT%20Roorkee-0056B3?style=for-the-badge&logo=target&logoColor=white)](https://iitr.ac.in)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Arafat-Mondal)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arafat-ali-mondal-970259264/)
+[![XERJ Hub](https://img.shields.io/badge/XERJ%20Hub-Contributor%20Profile-8A2BE2?style=for-the-badge&logo=git&logoColor=white)](https://hub.xerj.org/contributors/arafat678)
 <br/>
 
 > *NeuroAI • Reservoir Computing • Neuroevolution & Genetic Algorithms • Brain-Inspired AI for Healthcare • Neuromorphic Computing.*
@@ -110,7 +111,7 @@ graph TD
 2.  **Advanced Apple Sorting and Quality Grading Application Using Graph Neural Networks, Vision Transformers, and Convolutional Neural Networks** *(2025)*  
    **Mondal, A.A.**, Bhattacharyya, N. & Ghosh, S.  
    *2025 7th International Symposium on Advanced Electrical and Communication Technologies (IEEE ISAECT)*, Mohali, Punjab, India, pp. 1–8.  
-    [IEEE Xplore DOI: 10.1109/ISAECT68904.2025.11318674](https://doi.org/10.1109/ISAECT68904.2025.11318674)
+    [IEEE Xplore DOI: 10.1109/ISAECT68904.2025.11318674](https://doi.org/10.1109/ISAECT68904.2025.11318674) • [![XERJ Corpus](https://img.shields.io/badge/XERJ%20Corpus-Indexed-8A2BE2?style=flat-square)](https://hub.xerj.org/contributors/arafat678)
 3.  **A Low-Cost AI-Based Apple Quality Grading System Using Contour Analysis and Deep Learning for Real-Time Agricultural Applications** *(2026)*  
    **Mondal, A.A.**, Bose, P. & Mahata, R.  
    *Proceedings of the 3rd International Conference on Computing and Machine Learning (CML 2026)*, Sikkim Manipal University, India, March 2026 *(Presentation Completed)*.
@@ -180,3 +181,4 @@ graph TD
 * **Institution:** Department of Computer Science & Engineering, Swami Vivekananda University, Barrackpore, Kolkata 700121, India.
 * **ORCID Identifier:** [0009-0006-2487-8565](https://orcid.org/0009-0006-2487-8565)
 * **ResearchGate:** [Arafat-Mondal](https://www.researchgate.net/profile/Arafat-Mondal)
+* **XERJ Corpus Hub:** [hub.xerj.org/contributors/arafat678](https://hub.xerj.org/contributors/arafat678)
