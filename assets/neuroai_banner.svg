@@ -1,85 +1,85 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 380" width="100%" height="100%">
   <defs>
     <!-- Background Cosmic Gradients -->
-    <radialGradient id="deepSpace" cx="50%" cy="35%" r="70%">
-      <stop offset="0%" stop-color="#0a1024"/>
+    <radialGradient id="deepSpace" cx="50%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#091226"/>
       <stop offset="45%" stop-color="#050814"/>
       <stop offset="100%" stop-color="#020308"/>
     </radialGradient>
 
-    <!-- Earth Atmosphere & Rim Lighting -->
-    <radialGradient id="earthOceans" cx="42%" cy="38%" r="62%">
-      <stop offset="0%" stop-color="#142c54"/>
-      <stop offset="55%" stop-color="#09172f"/>
-      <stop offset="85%" stop-color="#040b17"/>
-      <stop offset="100%" stop-color="#00040a"/>
+    <!-- Cognitive Neural Sphere (Middle Circle) -->
+    <radialGradient id="cognitiveSphereCore" cx="45%" cy="35%" r="65%">
+      <stop offset="0%" stop-color="#0c2340"/>
+      <stop offset="40%" stop-color="#08172c"/>
+      <stop offset="75%" stop-color="#030c18"/>
+      <stop offset="100%" stop-color="#01040a"/>
     </radialGradient>
 
-    <radialGradient id="atmosphereGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="70%" stop-color="#38bdf8" stop-opacity="0"/>
-      <stop offset="88%" stop-color="#38bdf8" stop-opacity="0.35"/>
-      <stop offset="96%" stop-color="#0284c7" stop-opacity="0.8"/>
+    <radialGradient id="cognitiveAtmosphere" cx="50%" cy="50%" r="50%">
+      <stop offset="70%" stop-color="#00f2fe" stop-opacity="0"/>
+      <stop offset="86%" stop-color="#00f2fe" stop-opacity="0.35"/>
+      <stop offset="97%" stop-color="#0284c7" stop-opacity="0.9"/>
       <stop offset="100%" stop-color="#0284c7" stop-opacity="0"/>
     </radialGradient>
 
-    <radialGradient id="earthHalo" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.4"/>
-      <stop offset="60%" stop-color="#0369a1" stop-opacity="0.15"/>
+    <radialGradient id="cognitiveHalo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0284c7" stop-opacity="0.5"/>
+      <stop offset="45%" stop-color="#00f5a0" stop-opacity="0.25"/>
       <stop offset="100%" stop-color="#0284c7" stop-opacity="0"/>
     </radialGradient>
 
-    <!-- Glassmorphism Card Gradients -->
+    <!-- Glassmorphism Card Gradients (Crystal Clear Glass) -->
     <linearGradient id="glassFill" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#182234" stop-opacity="0.90"/>
-      <stop offset="100%" stop-color="#090d16" stop-opacity="0.96"/>
+      <stop offset="0%" stop-color="#182234" stop-opacity="0.88"/>
+      <stop offset="100%" stop-color="#080c14" stop-opacity="0.94"/>
     </linearGradient>
 
     <linearGradient id="heroGlassFill" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#13272e" stop-opacity="0.94"/>
-      <stop offset="100%" stop-color="#061217" stop-opacity="0.98"/>
+      <stop offset="0%" stop-color="#122730" stop-opacity="0.90"/>
+      <stop offset="100%" stop-color="#051218" stop-opacity="0.96"/>
     </linearGradient>
 
     <linearGradient id="glassTopLight" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.35"/>
-      <stop offset="25%" stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="25%" stop-color="#ffffff" stop-opacity="0.08"/>
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
 
     <!-- Card Ambient Underglows -->
     <radialGradient id="amberUnderglow" cx="50%" cy="60%" r="50%">
-      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.25"/>
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="0.28"/>
       <stop offset="100%" stop-color="#f59e0b" stop-opacity="0"/>
     </radialGradient>
 
     <radialGradient id="cyanUnderglow" cx="50%" cy="60%" r="50%">
-      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.28"/>
+      <stop offset="0%" stop-color="#00f2fe" stop-opacity="0.32"/>
       <stop offset="100%" stop-color="#00f2fe" stop-opacity="0"/>
     </radialGradient>
 
-    <radialGradient id="greenHeroGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#00f5a0" stop-opacity="0.4"/>
-      <stop offset="50%" stop-color="#10b981" stop-opacity="0.18"/>
+    <radialGradient id="cognitiveHeroGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00f5a0" stop-opacity="0.45"/>
+      <stop offset="50%" stop-color="#00f2fe" stop-opacity="0.22"/>
       <stop offset="100%" stop-color="#059669" stop-opacity="0"/>
     </radialGradient>
 
     <radialGradient id="roseUnderglow" cx="50%" cy="60%" r="50%">
-      <stop offset="0%" stop-color="#f43f5e" stop-opacity="0.26"/>
+      <stop offset="0%" stop-color="#f43f5e" stop-opacity="0.30"/>
       <stop offset="100%" stop-color="#f43f5e" stop-opacity="0"/>
     </radialGradient>
 
     <radialGradient id="purpleUnderglow" cx="50%" cy="60%" r="50%">
-      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.25"/>
+      <stop offset="0%" stop-color="#a855f7" stop-opacity="0.28"/>
       <stop offset="100%" stop-color="#a855f7" stop-opacity="0"/>
     </radialGradient>
 
     <!-- Filters for Neon Glow & Drop Shadows -->
     <filter id="softShadow" x="-20%" y="-20%" width="140%" height="150%">
-      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.75"/>
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.8"/>
     </filter>
 
     <filter id="heroShadow" x="-30%" y="-30%" width="160%" height="170%">
-      <feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#000000" flood-opacity="0.85"/>
-      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#00f5a0" flood-opacity="0.3"/>
+      <feDropShadow dx="0" dy="12" stdDeviation="15" flood-color="#000000" flood-opacity="0.9"/>
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#00f5a0" flood-opacity="0.4"/>
     </filter>
 
     <filter id="glow-emerald" x="-40%" y="-40%" width="180%" height="180%">
@@ -122,31 +122,31 @@
       </feMerge>
     </filter>
 
-    <clipPath id="earthClip">
-      <circle cx="480" cy="115" r="145"/>
+    <clipPath id="cognitiveClip">
+      <circle cx="480" cy="100" r="118"/>
     </clipPath>
   </defs>
 
   <style>
     @keyframes floatHero {
       0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-10px); }
+      50% { transform: translateY(-8px); }
     }
     @keyframes floatL1 {
       0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-7px); }
+      50% { transform: translateY(-6px); }
     }
     @keyframes floatL2 {
       0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-8px); }
+      50% { transform: translateY(-7px); }
     }
     @keyframes floatR1 {
       0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-7.5px); }
+      50% { transform: translateY(-6.5px); }
     }
     @keyframes floatR2 {
       0%, 100% { transform: translateY(0px); }
-      50% { transform: translateY(-6.5px); }
+      50% { transform: translateY(-6px); }
     }
     @keyframes ecgDraw {
       0% { stroke-dashoffset: 240; }
@@ -156,9 +156,13 @@
       0%, 100% { opacity: 0.2; transform: scale(0.9); }
       50% { opacity: 0.95; transform: scale(1.25); }
     }
-    @keyframes cityLightsPulse {
-      0%, 100% { opacity: 0.65; }
-      50% { opacity: 0.95; }
+    @keyframes cognitivePulse {
+      0%, 100% { opacity: 0.55; }
+      50% { opacity: 1; filter: drop-shadow(0 0 6px #00f2fe); }
+    }
+    @keyframes neuralStream {
+      0% { stroke-dashoffset: 60; }
+      100% { stroke-dashoffset: 0; }
     }
 
     .anim-hero { animation: floatHero 4.5s ease-in-out infinite; }
@@ -168,245 +172,256 @@
     .anim-r2   { animation: floatR2 4.9s ease-in-out infinite 0.5s; }
     .ecg-path  { stroke-dasharray: 220; animation: ecgDraw 3.2s linear infinite; }
     .star-twinkle { animation: twinkleStar 3s ease-in-out infinite; }
-    .city-lights { animation: cityLightsPulse 4s ease-in-out infinite; }
+    .brain-glow { animation: cognitivePulse 3.5s ease-in-out infinite; }
+    .neural-stream { stroke-dasharray: 6, 8; animation: neuralStream 3s linear infinite; }
   </style>
 
   <!-- Container Box -->
-  <rect width="960" height="360" rx="20" fill="url(#deepSpace)"/>
-  <rect width="958" height="358" x="1" y="1" rx="19" fill="none" stroke="#1e293b" stroke-opacity="0.6" stroke-width="1.2"/>
+  <rect width="960" height="380" rx="20" fill="url(#deepSpace)"/>
+  <rect width="958" height="378" x="1" y="1" rx="19" fill="none" stroke="#1e293b" stroke-opacity="0.6" stroke-width="1.2"/>
 
   <!-- Starry Space Background Particles -->
   <g fill="#93c5fd">
-    <circle cx="80" cy="45" r="1.3" class="star-twinkle" style="animation-delay: 0.1s;"/>
-    <circle cx="150" cy="25" r="1.8" class="star-twinkle" style="animation-delay: 1.2s;"/>
-    <circle cx="240" cy="55" r="1.1" class="star-twinkle" style="animation-delay: 2.1s;"/>
-    <circle cx="320" cy="30" r="1.4" class="star-twinkle" style="animation-delay: 0.6s;"/>
-    <circle cx="640" cy="35" r="1.5" class="star-twinkle" style="animation-delay: 1.8s;"/>
-    <circle cx="730" cy="22" r="1.2" class="star-twinkle" style="animation-delay: 0.4s;"/>
-    <circle cx="810" cy="48" r="1.7" class="star-twinkle" style="animation-delay: 1.5s;"/>
-    <circle cx="890" cy="65" r="1.2" class="star-twinkle" style="animation-delay: 2.4s;"/>
-    <circle cx="70" cy="250" r="1.1" class="star-twinkle" style="animation-delay: 0.9s;"/>
-    <circle cx="880" cy="260" r="1.3" class="star-twinkle" style="animation-delay: 1.3s;"/>
+    <circle cx="70" cy="40" r="1.3" class="star-twinkle" style="animation-delay: 0.1s;"/>
+    <circle cx="140" cy="25" r="1.8" class="star-twinkle" style="animation-delay: 1.2s;"/>
+    <circle cx="230" cy="45" r="1.1" class="star-twinkle" style="animation-delay: 2.1s;"/>
+    <circle cx="310" cy="20" r="1.4" class="star-twinkle" style="animation-delay: 0.6s;"/>
+    <circle cx="650" cy="25" r="1.5" class="star-twinkle" style="animation-delay: 1.8s;"/>
+    <circle cx="730" cy="18" r="1.2" class="star-twinkle" style="animation-delay: 0.4s;"/>
+    <circle cx="820" cy="40" r="1.7" class="star-twinkle" style="animation-delay: 1.5s;"/>
+    <circle cx="900" cy="55" r="1.2" class="star-twinkle" style="animation-delay: 2.4s;"/>
+    <circle cx="60" cy="270" r="1.1" class="star-twinkle" style="animation-delay: 0.9s;"/>
+    <circle cx="900" cy="280" r="1.3" class="star-twinkle" style="animation-delay: 1.3s;"/>
   </g>
 
-  <!-- ==================== REALISTIC 3D EARTH FROM SPACE ==================== -->
-  <circle cx="480" cy="115" r="190" fill="url(#earthHalo)"/>
+  <!-- ==================== CLEAR-VIEW COGNITIVE SPHERE (MIDDLE CIRCLE ELEVATED) ==================== -->
+  <!-- Outer Atmospheric Radiation Halo -->
+  <circle cx="480" cy="100" r="165" fill="url(#cognitiveHalo)"/>
 
-  <!-- Earth Globe Body -->
-  <g clip-path="url(#earthClip)">
-    <circle cx="480" cy="115" r="145" fill="url(#earthOceans)"/>
+  <!-- Cognitive Sphere Body with Complete Clear View Dome -->
+  <g clip-path="url(#cognitiveClip)">
+    <circle cx="480" cy="100" r="118" fill="url(#cognitiveSphereCore)"/>
 
-    <!-- Continents & Landmass Contours -->
-    <path d="M 425,50 C 435,42 455,48 465,58 C 475,68 495,65 505,75 C 510,85 500,105 485,115 C 475,120 460,118 448,110 C 435,100 415,95 410,82 C 408,70 418,58 425,50 Z" 
-          fill="#1c2d42" opacity="0.85"/>
-    <path d="M 445,125 C 460,122 475,130 480,145 C 485,160 470,180 455,185 C 445,180 435,165 438,150 C 440,135 435,128 445,125 Z" 
-          fill="#182638" opacity="0.8"/>
-    <path d="M 520,70 C 535,65 555,72 565,85 C 570,98 560,115 545,120 C 532,118 525,105 528,90 C 530,78 515,75 520,70 Z" 
-          fill="#1a283c" opacity="0.75"/>
+    <!-- Clear Cognitive Cortical Connectome (High Visibility in Upper Dome) -->
+    <!-- Major Cortico-Thalamic Long-Range Projection Loops -->
+    <path class="neural-stream" d="M 390,50 Q 480,-15 570,50" fill="none" stroke="#00f2fe" stroke-width="1.8" opacity="0.85"/>
+    <path class="neural-stream" d="M 375,95 Q 480,30 585,95" fill="none" stroke="#38bdf8" stroke-width="2.2" opacity="0.9"/>
+    <path class="neural-stream" d="M 385,140 Q 480,85 575,140" fill="none" stroke="#00f5a0" stroke-width="1.8" opacity="0.8"/>
 
-    <!-- Golden Night City Lights -->
-    <g class="city-lights" fill="#facc15" filter="url(#glow-amber)">
-      <circle cx="440" cy="78" r="2.2" opacity="0.95"/>
-      <circle cx="446" cy="82" r="1.8" opacity="0.9"/>
-      <circle cx="452" cy="75" r="2.5" opacity="1"/>
-      <circle cx="460" cy="72" r="2" opacity="0.95"/>
-      <circle cx="468" cy="80" r="2.8" opacity="1"/>
-      <circle cx="475" cy="85" r="2" opacity="0.85"/>
-      <circle cx="482" cy="92" r="2.3" opacity="0.9"/>
-      <circle cx="458" cy="90" r="1.9" opacity="0.85"/>
-      <circle cx="450" cy="98" r="2.1" opacity="0.8"/>
-      <circle cx="442" cy="92" r="1.7" opacity="0.8"/>
-      <circle cx="435" cy="86" r="1.6" opacity="0.75"/>
+    <!-- Vertical Transverse Connectome Lines -->
+    <path d="M 440,25 Q 455,95 445,175" fill="none" stroke="#0284c7" stroke-width="1.5" opacity="0.6" stroke-dasharray="3,3"/>
+    <path d="M 480,0 Q 480,100 480,200" fill="none" stroke="#00f5a0" stroke-width="1.8" opacity="0.75" stroke-dasharray="4,4"/>
+    <path d="M 520,25 Q 505,95 515,175" fill="none" stroke="#0284c7" stroke-width="1.5" opacity="0.6" stroke-dasharray="3,3"/>
 
-      <path d="M 440,78 Q 455,85 468,80 T 482,92" fill="none" stroke="#fef08a" stroke-width="0.9" opacity="0.75"/>
-      <path d="M 452,75 Q 460,95 470,105" fill="none" stroke="#fef08a" stroke-width="0.8" opacity="0.6"/>
+    <!-- Prominent Luminous Cognitive Brain Silhouette in Upper Clear Dome -->
+    <g class="brain-glow" filter="url(#glow-cyan)">
+      <!-- Left Cortical Lobe Contour -->
+      <path d="M 470,22 C 445,22 425,36 425,58 C 425,72 435,85 448,90 C 440,98 440,110 448,118 C 456,126 470,126 470,126" 
+            fill="none" stroke="#00f2fe" stroke-width="2.4" stroke-linecap="round"/>
+      <!-- Right Cortical Lobe Contour -->
+      <path d="M 490,22 C 515,22 535,36 535,58 C 535,72 525,85 512,90 C 520,98 520,110 512,118 C 504,126 490,126 490,126" 
+            fill="none" stroke="#38bdf8" stroke-width="2.4" stroke-linecap="round"/>
 
-      <circle cx="430" cy="65" r="1.3" opacity="0.7"/>
-      <circle cx="420" cy="72" r="1.2" opacity="0.65"/>
-      <circle cx="478" cy="68" r="1.5" opacity="0.75"/>
-      <circle cx="490" cy="78" r="1.4" opacity="0.7"/>
-      <circle cx="535" cy="85" r="1.8" opacity="0.8"/>
-      <circle cx="542" cy="92" r="1.5" opacity="0.75"/>
-      <circle cx="550" cy="88" r="2.2" opacity="0.9"/>
-      <circle cx="558" cy="95" r="1.6" opacity="0.8"/>
+      <!-- Synaptic Fissure Convolutions (Brain Gyri) -->
+      <path d="M 445,42 Q 465,48 455,62" fill="none" stroke="#a7f3d0" stroke-width="1.6" stroke-linecap="round"/>
+      <path d="M 515,42 Q 495,48 505,62" fill="none" stroke="#a7f3d0" stroke-width="1.6" stroke-linecap="round"/>
+      <path d="M 435,68 Q 460,74 445,86" fill="none" stroke="#00f5a0" stroke-width="1.6" stroke-linecap="round"/>
+      <path d="M 525,68 Q 500,74 515,86" fill="none" stroke="#00f5a0" stroke-width="1.6" stroke-linecap="round"/>
+
+      <!-- Glowing High-Order Cognitive Hub Nodes -->
+      <circle cx="448" cy="38" r="4" fill="#ffffff"/>
+      <circle cx="512" cy="38" r="4" fill="#ffffff"/>
+      <circle cx="470" cy="55" r="4.8" fill="#00f5a0"/>
+      <circle cx="490" cy="55" r="4.8" fill="#00f5a0"/>
+      <circle cx="440" cy="78" r="4.2" fill="#00f2fe"/>
+      <circle cx="520" cy="78" r="4.2" fill="#00f2fe"/>
+      <circle cx="480" cy="85" r="5.2" fill="#ffffff"/>
     </g>
 
-    <path d="M 370,80 Q 430,60 490,75 T 600,65" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" opacity="0.08" filter="blur(6px)"/>
-    <path d="M 400,120 Q 460,135 520,115 T 580,130" fill="none" stroke="#ffffff" stroke-width="12" stroke-linecap="round" opacity="0.06" filter="blur(8px)"/>
+    <!-- Synaptic Axon Links connecting hubs -->
+    <line x1="448" y1="38" x2="470" y2="55" stroke="#ffffff" stroke-width="1.5" opacity="0.8"/>
+    <line x1="512" y1="38" x2="490" y2="55" stroke="#ffffff" stroke-width="1.5" opacity="0.8"/>
+    <line x1="470" y1="55" x2="490" y2="55" stroke="#00f5a0" stroke-width="2" opacity="0.9"/>
+    <line x1="470" y1="55" x2="480" y2="85" stroke="#ffffff" stroke-width="1.5" opacity="0.85"/>
+    <line x1="490" y1="55" x2="480" y2="85" stroke="#ffffff" stroke-width="1.5" opacity="0.85"/>
+    <line x1="440" y1="78" x2="480" y2="85" stroke="#00f2fe" stroke-width="1.5" opacity="0.8"/>
+    <line x1="520" y1="78" x2="480" y2="85" stroke="#00f2fe" stroke-width="1.5" opacity="0.8"/>
 
-    <path d="M 480,-30 A 145 145 0 0 1 625,115 A 145 145 0 0 1 480,260 Q 560,115 480,-30 Z" 
-          fill="#000208" opacity="0.65"/>
+    <!-- Crescent 3D Shading for Sphere Body -->
+    <path d="M 480,-20 A 118 118 0 0 1 598,100 A 118 118 0 0 1 480,218 Q 550,100 480,-20 Z" 
+          fill="#000208" opacity="0.45"/>
   </g>
 
-  <!-- Atmospheric Edge Glow Ring -->
-  <circle cx="480" cy="115" r="145" fill="url(#atmosphereGlow)"/>
-  <circle cx="480" cy="115" r="144.5" fill="none" stroke="#38bdf8" stroke-width="1.2" opacity="0.75"/>
+  <!-- Clear Cognitive Atmospheric Edge Glow Ring -->
+  <circle cx="480" cy="100" r="118" fill="url(#cognitiveAtmosphere)"/>
+  <circle cx="480" cy="100" r="117.5" fill="none" stroke="#00f2fe" stroke-width="1.6" opacity="0.9"/>
 
-  <!-- Synaptic Optical Data Traces connecting cards -->
-  <path d="M 175,150 C 215,140 245,130 290,122" fill="none" stroke="#f59e0b" stroke-opacity="0.3" stroke-width="1.2" stroke-dasharray="3,4"/>
-  <path d="M 310,122 C 355,115 375,108 410,100" fill="none" stroke="#38bdf8" stroke-opacity="0.35" stroke-width="1.4" stroke-dasharray="4,4"/>
-  <path d="M 550,100 C 585,108 605,115 650,122" fill="none" stroke="#10b981" stroke-opacity="0.4" stroke-width="1.4" stroke-dasharray="4,4"/>
-  <path d="M 670,122 C 715,130 745,140 785,150" fill="none" stroke="#f43f5e" stroke-opacity="0.3" stroke-width="1.2" stroke-dasharray="3,4"/>
+  <!-- Optical Synaptic Data Bus Lines linking all 5 cards -->
+  <path d="M 180,195 C 215,185 245,178 285,170" fill="none" stroke="#f59e0b" stroke-opacity="0.35" stroke-width="1.2" stroke-dasharray="3,4"/>
+  <path d="M 315,170 C 355,162 380,155 415,148" fill="none" stroke="#38bdf8" stroke-opacity="0.4" stroke-width="1.4" stroke-dasharray="4,4"/>
+  <path d="M 545,148 C 580,155 605,162 645,170" fill="none" stroke="#10b981" stroke-opacity="0.4" stroke-width="1.4" stroke-dasharray="4,4"/>
+  <path d="M 675,170 C 715,178 745,185 780,195" fill="none" stroke="#f43f5e" stroke-opacity="0.35" stroke-width="1.2" stroke-dasharray="3,4"/>
 
   <!-- ==================== CARD 1 (LEFT 2): GENETIC ALGORITHMS ==================== -->
-  <!-- Outer static position wrapper -->
-  <g transform="translate(90, 95)">
-    <!-- Inner animated float wrapper -->
+  <g transform="translate(90, 145)">
     <g class="anim-l2">
-      <circle cx="56" cy="56" r="60" fill="url(#amberUnderglow)"/>
-      <rect width="112" height="112" rx="20" fill="url(#glassFill)" stroke="#d97706" stroke-opacity="0.6" stroke-width="1.4" filter="url(#softShadow)"/>
-      <rect width="108" height="108" x="2" y="2" rx="18" fill="url(#glassTopLight)"/>
+      <circle cx="55" cy="55" r="58" fill="url(#amberUnderglow)"/>
+      <rect width="110" height="110" rx="18" fill="url(#glassFill)" stroke="#d97706" stroke-opacity="0.65" stroke-width="1.4" filter="url(#softShadow)"/>
+      <rect width="106" height="106" x="2" y="2" rx="16" fill="url(#glassTopLight)"/>
 
       <!-- 3D DNA Double Helix -->
-      <g transform="translate(56, 54) rotate(-32)" filter="url(#glow-amber)">
-        <path d="M -16,-22 C -2,-11 -2,11 -16,22" fill="none" stroke="#f59e0b" stroke-width="2.6" stroke-linecap="round"/>
-        <path d="M 16,-22 C 2,-11 2,11 16,22" fill="none" stroke="#fbbf24" stroke-width="2.6" stroke-linecap="round"/>
-        <line x1="-14" y1="-16" x2="14" y2="-16" stroke="#fef3c7" stroke-width="1.8" stroke-opacity="0.95"/>
-        <circle cx="-14" cy="-16" r="2.4" fill="#f59e0b"/>
-        <circle cx="14" cy="-16" r="2.4" fill="#fbbf24"/>
-        <line x1="-7" y1="-7" x2="7" y2="-7" stroke="#fef3c7" stroke-width="1.8" stroke-opacity="0.9"/>
+      <g transform="translate(55, 52) rotate(-32)" filter="url(#glow-amber)">
+        <path d="M -15,-20 C -2,-10 -2,10 -15,20" fill="none" stroke="#f59e0b" stroke-width="2.6" stroke-linecap="round"/>
+        <path d="M 15,-20 C 2,-10 2,10 15,20" fill="none" stroke="#fbbf24" stroke-width="2.6" stroke-linecap="round"/>
+        <line x1="-13" y1="-15" x2="13" y2="-15" stroke="#fef3c7" stroke-width="1.8" stroke-opacity="0.95"/>
+        <circle cx="-13" cy="-15" r="2.3" fill="#f59e0b"/>
+        <circle cx="13" cy="-15" r="2.3" fill="#fbbf24"/>
+        <line x1="-7" y1="-6" x2="7" y2="-6" stroke="#fef3c7" stroke-width="1.8" stroke-opacity="0.9"/>
         <line x1="-5" y1="5" x2="5" y2="5" stroke="#fef3c7" stroke-width="1.8" stroke-opacity="0.9"/>
-        <line x1="-14" y1="16" x2="14" y2="16" stroke="#fef3c7" stroke-width="1.8" stroke-opacity="0.95"/>
-        <circle cx="-14" cy="16" r="2.4" fill="#f59e0b"/>
-        <circle cx="14" cy="16" r="2.4" fill="#fbbf24"/>
+        <line x1="-13" y1="15" x2="13" y2="15" stroke="#fef3c7" stroke-width="1.8" stroke-opacity="0.95"/>
+        <circle cx="-13" cy="15" r="2.3" fill="#f59e0b"/>
+        <circle cx="13" cy="15" r="2.3" fill="#fbbf24"/>
       </g>
-      <text x="56" y="99" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="9" font-weight="700" fill="#fbbf24" text-anchor="middle" letter-spacing="0.5">GENETIC ALGO</text>
+      <text x="55" y="97" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="9" font-weight="700" fill="#fbbf24" text-anchor="middle" letter-spacing="0.5">GENETIC ALGO</text>
     </g>
   </g>
 
   <!-- ==================== CARD 2 (LEFT 1): NEUROAI & SNN ==================== -->
-  <g transform="translate(240, 70)">
+  <g transform="translate(240, 125)">
     <g class="anim-l1">
-      <circle cx="59" cy="59" r="65" fill="url(#cyanUnderglow)"/>
-      <rect width="118" height="118" rx="20" fill="url(#glassFill)" stroke="#0284c7" stroke-opacity="0.65" stroke-width="1.5" filter="url(#softShadow)"/>
-      <rect width="114" height="114" x="2" y="2" rx="18" fill="url(#glassTopLight)"/>
+      <circle cx="58" cy="58" r="62" fill="url(#cyanUnderglow)"/>
+      <rect width="116" height="116" rx="19" fill="url(#glassFill)" stroke="#0284c7" stroke-opacity="0.7" stroke-width="1.5" filter="url(#softShadow)"/>
+      <rect width="112" height="112" x="2" y="2" rx="17" fill="url(#glassTopLight)"/>
 
       <!-- Synapse Brain -->
-      <g transform="translate(59, 56)" filter="url(#glow-cyan)">
-        <path d="M -4,-24 C -20,-24 -28,-13 -28,2 C -28,17 -18,26 -4,27" fill="none" stroke="#38bdf8" stroke-width="2.4" stroke-linecap="round"/>
-        <path d="M 4,-24 C 20,-24 28,-13 28,2 C 28,17 18,26 4,27" fill="none" stroke="#00f2fe" stroke-width="2.4" stroke-linecap="round"/>
-        <line x1="0" y1="-25" x2="0" y2="27" stroke="#38bdf8" stroke-width="1.2" stroke-dasharray="3,3"/>
-        <circle cx="-15" cy="-11" r="3.2" fill="#38bdf8"/>
-        <circle cx="-18" cy="11" r="3" fill="#38bdf8"/>
+      <g transform="translate(58, 54)" filter="url(#glow-cyan)">
+        <path d="M -4,-23 C -19,-23 -27,-12 -27,2 C -27,16 -17,25 -4,26" fill="none" stroke="#38bdf8" stroke-width="2.3" stroke-linecap="round"/>
+        <path d="M 4,-23 C 19,-23 27,-12 27,2 C 27,16 17,25 4,26" fill="none" stroke="#00f2fe" stroke-width="2.3" stroke-linecap="round"/>
+        <line x1="0" y1="-24" x2="0" y2="26" stroke="#38bdf8" stroke-width="1.2" stroke-dasharray="3,3"/>
+        <circle cx="-14" cy="-10" r="3.2" fill="#38bdf8"/>
+        <circle cx="-17" cy="10" r="3" fill="#38bdf8"/>
         <circle cx="-7" cy="0" r="3.4" fill="#00f2fe"/>
-        <line x1="-15" y1="-11" x2="-7" y2="0" stroke="#38bdf8" stroke-width="1.4"/>
-        <line x1="-18" y1="11" x2="-7" y2="0" stroke="#38bdf8" stroke-width="1.4"/>
-        <rect x="11" y="-14" width="7" height="7" rx="2" fill="#00f2fe"/>
+        <line x1="-14" y1="-10" x2="-7" y2="0" stroke="#38bdf8" stroke-width="1.4"/>
+        <line x1="-17" y1="10" x2="-7" y2="0" stroke="#38bdf8" stroke-width="1.4"/>
+        <rect x="11" y="-13" width="7" height="7" rx="2" fill="#00f2fe"/>
         <rect x="14" y="8" width="7" height="7" rx="2" fill="#00f2fe"/>
         <circle cx="7" cy="0" r="3.4" fill="#ffffff"/>
-        <line x1="14" y1="-10" x2="7" y2="0" stroke="#00f2fe" stroke-width="1.4"/>
+        <line x1="14" y1="-9" x2="7" y2="0" stroke="#00f2fe" stroke-width="1.4"/>
         <line x1="17" y1="11" x2="7" y2="0" stroke="#00f2fe" stroke-width="1.4"/>
         <line x1="-7" y1="0" x2="7" y2="0" stroke="#ffffff" stroke-width="1.8"/>
       </g>
-      <text x="59" y="105" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="9" font-weight="700" fill="#38bdf8" text-anchor="middle" letter-spacing="0.5">NEUROAI / SNN</text>
+      <text x="58" y="102" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="9" font-weight="700" fill="#38bdf8" text-anchor="middle" letter-spacing="0.5">NEUROAI / SNN</text>
     </g>
   </g>
 
-  <!-- ==================== CARD 3 (CENTER HERO): RESERVOIR COMPUTING ==================== -->
-  <g transform="translate(400, 38)">
+  <!-- ==================== CARD 3 (CENTER HERO): COGNITIVE NEUROAI ==================== -->
+  <g transform="translate(405, 105)">
     <g class="anim-hero">
-      <circle cx="80" cy="80" r="105" fill="url(#greenHeroGlow)"/>
-      <rect width="160" height="160" rx="24" fill="url(#heroGlassFill)" stroke="#00f5a0" stroke-width="2.4" filter="url(#heroShadow)"/>
-      <rect width="154" height="154" x="3" y="3" rx="21" fill="url(#glassTopLight)"/>
+      <circle cx="75" cy="75" r="95" fill="url(#cognitiveHeroGlow)"/>
+      <rect width="150" height="150" rx="22" fill="url(#heroGlassFill)" stroke="#00f5a0" stroke-width="2.2" filter="url(#heroShadow)"/>
+      <rect width="144" height="144" x="3" y="3" rx="19" fill="url(#glassTopLight)"/>
 
-      <!-- 3D Reservoir Cube & Pedestal -->
-      <g transform="translate(80, 75)">
-        <ellipse cx="0" cy="42" rx="38" ry="11" fill="none" stroke="#00f5a0" stroke-opacity="0.5" stroke-width="1.8"/>
-        <ellipse cx="0" cy="42" rx="52" ry="15" fill="none" stroke="#34d399" stroke-opacity="0.25" stroke-dasharray="3,4"/>
+      <!-- 3D Cognitive Synaptic Core & Reservoir Pedestal -->
+      <g transform="translate(75, 68)">
+        <ellipse cx="0" cy="40" rx="35" ry="10" fill="none" stroke="#00f5a0" stroke-opacity="0.55" stroke-width="1.8"/>
+        <ellipse cx="0" cy="40" rx="48" ry="14" fill="none" stroke="#00f2fe" stroke-opacity="0.35" stroke-dasharray="3,4"/>
 
-        <!-- Top Face -->
-        <polygon points="0,-36 34,-18 0,0 -34,-18" fill="#065f46" fill-opacity="0.75" stroke="#34d399" stroke-width="2"/>
-        <!-- Left Face -->
-        <polygon points="-34,-18 0,0 0,36 -34,18" fill="#047857" fill-opacity="0.85" stroke="#00f5a0" stroke-width="2"/>
-        <!-- Right Face -->
-        <polygon points="0,0 34,-18 34,18 0,36" fill="#059669" fill-opacity="0.9" stroke="#34d399" stroke-width="2"/>
+        <!-- 3D Isometric Cognitive Brain Reservoir Cube -->
+        <polygon points="0,-33 30,-16 0,0 -30,-16" fill="#065f46" fill-opacity="0.75" stroke="#34d399" stroke-width="2"/>
+        <polygon points="-30,-16 0,0 0,33 -30,17" fill="#047857" fill-opacity="0.85" stroke="#00f5a0" stroke-width="2"/>
+        <polygon points="0,0 30,-16 30,17 0,33" fill="#059669" fill-opacity="0.9" stroke="#34d399" stroke-width="2"/>
 
-        <!-- Attractor Nodes -->
+        <!-- Dynamic Attractor Lattice -->
         <g filter="url(#glow-emerald)">
-          <circle cx="0" cy="-18" r="5" fill="#f0fdf4"/>
-          <circle cx="-17" cy="9" r="4.2" fill="#6ee7b7"/>
-          <circle cx="17" cy="9" r="4.2" fill="#6ee7b7"/>
-          <circle cx="0" cy="18" r="3.6" fill="#a7f3d0"/>
+          <circle cx="0" cy="-16" r="5" fill="#ffffff"/>
+          <circle cx="-15" cy="8" r="4" fill="#6ee7b7"/>
+          <circle cx="15" cy="8" r="4" fill="#6ee7b7"/>
+          <circle cx="0" cy="16" r="3.5" fill="#a7f3d0"/>
 
-          <path d="M 0,-18 Q -14,0 -17,9" fill="none" stroke="#a7f3d0" stroke-width="1.8"/>
-          <path d="M -17,9 Q 0,8 17,9" fill="none" stroke="#f0fdf4" stroke-width="1.8"/>
-          <path d="M 17,9 Q 14,-10 0,-18" fill="none" stroke="#6ee7b7" stroke-width="1.8"/>
-          <line x1="0" y1="18" x2="0" y2="-18" stroke="#ffffff" stroke-width="1.4" stroke-dasharray="2,2"/>
+          <path d="M 0,-16 Q -12,0 -15,8" fill="none" stroke="#a7f3d0" stroke-width="1.8"/>
+          <path d="M -15,8 Q 0,7 15,8" fill="none" stroke="#ffffff" stroke-width="1.8"/>
+          <path d="M 15,8 Q 12,-9 0,-16" fill="none" stroke="#6ee7b7" stroke-width="1.8"/>
+          <line x1="0" y1="16" x2="0" y2="-16" stroke="#00f2fe" stroke-width="1.4" stroke-dasharray="2,2"/>
+
+          <line x1="0" y1="-16" x2="-23" y2="-26" stroke="#00f2fe" stroke-width="1.2" stroke-linecap="round"/>
+          <circle cx="-23" cy="-26" r="2.2" fill="#00f2fe"/>
+          <line x1="0" y1="-16" x2="23" y2="-26" stroke="#00f2fe" stroke-width="1.2" stroke-linecap="round"/>
+          <circle cx="23" cy="-26" r="2.2" fill="#00f2fe"/>
         </g>
       </g>
 
-      <text x="80" y="146" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="10" font-weight="800" fill="#00f5a0" text-anchor="middle" letter-spacing="1">RESERVOIR COMPUTING</text>
-      <text x="80" y="133" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="7.5" font-weight="600" fill="#a7f3d0" text-anchor="middle" letter-spacing="1.5">ECHO STATE NETWORKS</text>
+      <text x="75" y="137" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="9.5" font-weight="800" fill="#00f5a0" text-anchor="middle" letter-spacing="1">COGNITIVE NEUROAI</text>
+      <text x="75" y="125" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="7" font-weight="600" fill="#a7f3d0" text-anchor="middle" letter-spacing="1.2">CORTICAL &amp; RESERVOIR CIRCUITS</text>
     </g>
   </g>
 
   <!-- ==================== CARD 4 (RIGHT 1): ECG BIO-TELEMETRY ==================== -->
-  <g transform="translate(602, 70)">
+  <g transform="translate(605, 125)">
     <g class="anim-r1">
-      <circle cx="59" cy="59" r="65" fill="url(#roseUnderglow)"/>
-      <rect width="118" height="118" rx="20" fill="url(#glassFill)" stroke="#e11d48" stroke-opacity="0.65" stroke-width="1.5" filter="url(#softShadow)"/>
-      <rect width="114" height="114" x="2" y="2" rx="18" fill="url(#glassTopLight)"/>
+      <circle cx="58" cy="58" r="62" fill="url(#roseUnderglow)"/>
+      <rect width="116" height="116" rx="19" fill="url(#glassFill)" stroke="#e11d48" stroke-opacity="0.7" stroke-width="1.5" filter="url(#softShadow)"/>
+      <rect width="112" height="112" x="2" y="2" rx="17" fill="url(#glassTopLight)"/>
 
       <!-- ECG Wave -->
-      <g transform="translate(16, 54)" filter="url(#glow-rose)">
+      <g transform="translate(15, 54)" filter="url(#glow-rose)">
         <line x1="0" y1="0" x2="86" y2="0" stroke="#881337" stroke-opacity="0.6" stroke-width="1"/>
-        <line x1="28" y1="-20" x2="28" y2="20" stroke="#881337" stroke-opacity="0.35" stroke-width="0.8"/>
-        <line x1="58" y1="-20" x2="58" y2="20" stroke="#881337" stroke-opacity="0.35" stroke-width="0.8"/>
+        <line x1="28" y1="-18" x2="28" y2="18" stroke="#881337" stroke-opacity="0.35" stroke-width="0.8"/>
+        <line x1="58" y1="-18" x2="58" y2="18" stroke="#881337" stroke-opacity="0.35" stroke-width="0.8"/>
 
-        <path class="ecg-path" d="M 0,0 L 16,0 Q 20,-6 24,0 L 29,0 L 32,5 L 38,-28 L 44,15 L 47,-4 L 51,0 Q 58,-9 64,0 L 86,0" 
+        <path class="ecg-path" d="M 0,0 L 16,0 Q 20,-6 24,0 L 29,0 L 32,5 L 38,-27 L 44,15 L 47,-4 L 51,0 Q 58,-9 64,0 L 86,0" 
               fill="none" stroke="#f43f5e" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
-        <circle cx="38" cy="-28" r="3.4" fill="#ffffff"/>
+        <circle cx="38" cy="-27" r="3.4" fill="#ffffff"/>
       </g>
-      <text x="59" y="105" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="9" font-weight="700" fill="#fb7185" text-anchor="middle" letter-spacing="0.5">ECG TELEMETRY</text>
+      <text x="58" y="102" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="9" font-weight="700" fill="#fb7185" text-anchor="middle" letter-spacing="0.5">ECG TELEMETRY</text>
     </g>
   </g>
 
   <!-- ==================== CARD 5 (RIGHT 2): COMPUTER VISION & GNN ==================== -->
-  <g transform="translate(758, 95)">
+  <g transform="translate(760, 145)">
     <g class="anim-r2">
-      <circle cx="56" cy="56" r="60" fill="url(#purpleUnderglow)"/>
-      <rect width="112" height="112" rx="20" fill="url(#glassFill)" stroke="#9333ea" stroke-opacity="0.6" stroke-width="1.4" filter="url(#softShadow)"/>
-      <rect width="108" height="108" x="2" y="2" rx="18" fill="url(#glassTopLight)"/>
+      <circle cx="55" cy="55" r="58" fill="url(#purpleUnderglow)"/>
+      <rect width="110" height="110" rx="18" fill="url(#glassFill)" stroke="#9333ea" stroke-opacity="0.65" stroke-width="1.4" filter="url(#softShadow)"/>
+      <rect width="106" height="106" x="2" y="2" rx="16" fill="url(#glassTopLight)"/>
 
       <!-- Vision & GNN Lattice -->
-      <g transform="translate(56, 54)" filter="url(#glow-purple)">
-        <line x1="-18" y1="-14" x2="18" y2="-14" stroke="#c084fc" stroke-width="1.5"/>
-        <line x1="-18" y1="-14" x2="0" y2="17" stroke="#c084fc" stroke-width="1.5"/>
-        <line x1="18" y1="-14" x2="0" y2="17" stroke="#c084fc" stroke-width="1.5"/>
-        <line x1="0" y1="-4" x2="-18" y2="-14" stroke="#e9d5ff" stroke-width="1.3"/>
-        <line x1="0" y1="-4" x2="18" y2="-14" stroke="#e9d5ff" stroke-width="1.3"/>
-        <line x1="0" y1="-4" x2="0" y2="17" stroke="#e9d5ff" stroke-width="1.3"/>
+      <g transform="translate(55, 52)" filter="url(#glow-purple)">
+        <line x1="-17" y1="-13" x2="17" y2="-13" stroke="#c084fc" stroke-width="1.5"/>
+        <line x1="-17" y1="-13" x2="0" y2="16" stroke="#c084fc" stroke-width="1.5"/>
+        <line x1="17" y1="-13" x2="0" y2="16" stroke="#c084fc" stroke-width="1.5"/>
+        <line x1="0" y1="-4" x2="-17" y2="-13" stroke="#e9d5ff" stroke-width="1.3"/>
+        <line x1="0" y1="-4" x2="17" y2="-13" stroke="#e9d5ff" stroke-width="1.3"/>
+        <line x1="0" y1="-4" x2="0" y2="16" stroke="#e9d5ff" stroke-width="1.3"/>
 
-        <circle cx="-18" cy="-14" r="4.5" fill="#a855f7"/>
-        <circle cx="18" cy="-14" r="4.5" fill="#a855f7"/>
-        <circle cx="0" cy="17" r="4.5" fill="#a855f7"/>
-        <circle cx="0" cy="-4" r="5.2" fill="#faf5ff"/>
+        <circle cx="-17" cy="-13" r="4.3" fill="#a855f7"/>
+        <circle cx="17" cy="-13" r="4.3" fill="#a855f7"/>
+        <circle cx="0" cy="16" r="4.3" fill="#a855f7"/>
+        <circle cx="0" cy="-4" r="5" fill="#faf5ff"/>
 
-        <path d="M -24,-22 L -28,-22 L -28,-16" fill="none" stroke="#e9d5ff" stroke-width="1.6"/>
-        <path d="M 24,-22 L 28,-22 L 28,-16" fill="none" stroke="#e9d5ff" stroke-width="1.6"/>
-        <path d="M -24,22 L -28,22 L -28,16" fill="none" stroke="#e9d5ff" stroke-width="1.6"/>
-        <path d="M 24,22 L 28,22 L 28,16" fill="none" stroke="#e9d5ff" stroke-width="1.6"/>
+        <path d="M -23,-21 L -27,-21 L -27,-15" fill="none" stroke="#e9d5ff" stroke-width="1.6"/>
+        <path d="M 23,-21 L 27,-21 L 27,-15" fill="none" stroke="#e9d5ff" stroke-width="1.6"/>
+        <path d="M -23,21 L -27,21 L -27,15" fill="none" stroke="#e9d5ff" stroke-width="1.6"/>
+        <path d="M 23,21 L 27,21 L 27,15" fill="none" stroke="#e9d5ff" stroke-width="1.6"/>
       </g>
-      <text x="56" y="99" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="9" font-weight="700" fill="#c084fc" text-anchor="middle" letter-spacing="0.5">VISION &amp; GNN</text>
+      <text x="55" y="97" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="9" font-weight="700" fill="#c084fc" text-anchor="middle" letter-spacing="0.5">VISION &amp; GNN</text>
     </g>
   </g>
 
   <!-- ==================== PREMIUM BRANDING & TYPOGRAPHY ==================== -->
-  <g transform="translate(480, 268)" text-anchor="middle">
+  <g transform="translate(480, 290)" text-anchor="middle">
     <!-- Top Pill Tag -->
     <rect x="-155" y="-18" width="310" height="20" rx="10" fill="#0f172a" fill-opacity="0.85" stroke="#334155" stroke-width="1"/>
     <text x="0" y="-4.5" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="8.5" font-weight="800" fill="#38bdf8" letter-spacing="2.2">
-      NEUROSCIENCE-INSPIRED ARTIFICIAL INTELLIGENCE
+      COGNITIVE ARCHITECTURES &amp; NEUROAI
     </text>
 
     <!-- Main Title -->
     <text x="0" y="30" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="24" font-weight="800" fill="#ffffff" letter-spacing="0.8">
-      NeuroAI &amp; Neuromorphic Computing Research
+      Cognitive AI &amp; Neuromorphic Computing Research
     </text>
 
     <!-- Research Pillars Subtitle with Color-Coded Dots -->
-    <text x="0" y="60" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="12" font-weight="500" fill="#94a3b8" letter-spacing="0.4">
-      Reservoir Computing (ESNs) <tspan fill="#38bdf8">•</tspan> Spiking Neural Networks <tspan fill="#00f5a0">•</tspan> Real-Time ECG Telemetry <tspan fill="#f43f5e">•</tspan> Vision Transformers &amp; GNNs
+    <text x="0" y="58" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,sans-serif" font-size="12" font-weight="500" fill="#94a3b8" letter-spacing="0.4">
+      Cognitive Dynamics <tspan fill="#00f5a0">•</tspan> Reservoir Computing (ESNs) <tspan fill="#38bdf8">•</tspan> ECG Bio-Telemetry <tspan fill="#f43f5e">•</tspan> Vision Transformers &amp; GNNs
     </text>
   </g>
 </svg>
