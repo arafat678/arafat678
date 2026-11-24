@@ -1,5 +1,11 @@
 <div align="center">
 
+<a href="https://github.com/arafat678">
+  <img src="assets/neuroai_banner.svg" alt="NeuroAI & Neuromorphic Computing Research" width="100%" />
+</a>
+
+<br/><br/>
+
 # Mr. Arafat Ali Mondal
 ### Assistant Professor of Computer Science & Engineering | Research Interests NeuroAI & Neuromorphic Computing 
 
